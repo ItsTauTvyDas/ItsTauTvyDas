@@ -1,4 +1,4 @@
-# Hello / こんいちわ !
+# <p align="center">Hello / こんいちわ !</p>
 
 <p align="center">
   <img alt="ItsTauTvyDas's Top Languages" src="https://github-readme-stats.vercel.app/api?username=ItsTauTvyDas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
@@ -8,4 +8,11 @@
 </p>
 <p align="center">
   <img alt="ItsTauTvyDas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTauTvyDas&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+</p>
+
+# <p align="center">Projects I currently work on</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=UUIDSwapper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=ModernWaystones">
 </p>

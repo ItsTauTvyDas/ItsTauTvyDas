@@ -13,6 +13,10 @@
 # <p align="center">Projects I currently work on</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=UUIDSwapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=ModernWaystones">
+  <a href="https://github.com/ItsTauTvyDas/UUIDSwapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=UUIDSwapper">
+  </a>
+  <a href="https://github.com/ItsTauTvyDas/ModernWaystones">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=ModernWaystones">
+  </a>
 </p>

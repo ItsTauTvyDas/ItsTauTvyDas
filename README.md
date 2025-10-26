@@ -20,3 +20,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsTauTvyDas&repo=ModernWaystones">
   </a>
 </p>
+
+# <p align="center">WindHawk mods I have made</p>
+
+<p align="center">
+  <a href="https://windhawk.net/mods/fully-customizable-winver">
+    <img src="https://tools.itstautvydas.me/windhawk-github-readme-stats/fully-customizable-winver.svg">
+  </a>
+</p>

@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="https://windhawk.net/mods/fully-customizable-winver">
-    <img src="https://tools.itstautvydas.me/windhawk-github-readme-stats/fully-customizable-winver.svg">
+    <img alt="Failed to load SVG" src="https://tools.itstautvydas.me/windhawk-github-readme-stats/fully-customizable-winver.svg">
   </a>
 </p>

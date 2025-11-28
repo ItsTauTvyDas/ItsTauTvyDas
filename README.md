@@ -1,6 +1,9 @@
 # <p align="center">Hello / こんいちわ !</p>
 
 <p align="center">
+  <img src="https://lanyard.kyrie25.dev/api/308548798937038848?hideStatus=true&forceGradient=false&showDisplayName=true&hideTimestamp=true&hideBadges=false&hideActivity=false&showBanner=animated&imgStyle=circle&idleMessage=Not%20doing%20anything%2C%20prob%20sleeping&hideDiscrim=false&hideNameplate=false"/>
+  </p>
+<p align="center">
   <img alt="ItsTauTvyDas's Top Languages" src="https://github-readme-stats.vercel.app/api?username=ItsTauTvyDas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
 </p>
 <p align="center">
